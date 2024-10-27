@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\vs project\\7.1 \u0456\u0442\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E662289D-F663-43DC-B9F4-046CF347B90F}|7.1\\7.1.vcxproj|D:\\vs project\\7.1 \u0456\u0442\\7.1\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E662289D-F663-43DC-B9F4-046CF347B90F}|7.1\\7.1.vcxproj|solutionrelative:7.1\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6235B7B-A1FC-4183-983D-E4908D3CFE51}|7.1 \u0456\u0442\\7.1 \u0456\u0442.vcxproj|D:\\vs project\\7.1 \u0456\u0442\\7.1 \u0456\u0442\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C6235B7B-A1FC-4183-983D-E4908D3CFE51}|7.1 \u0456\u0442\\7.1 \u0456\u0442.vcxproj|solutionrelative:7.1 \u0456\u0442\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E662289D-F663-43DC-B9F4-046CF347B90F}|7.1\\7.1.vcxproj|D:\\vs project\\7.1 \u0456\u0442\\7.1\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E662289D-F663-43DC-B9F4-046CF347B90F}|7.1\\7.1.vcxproj|solutionrelative:7.1\\7.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "7.1.cpp",
               "DocumentMoniker": "D:\\vs project\\7.1 \u0456\u0442\\7.1\\7.1.cpp",
               "RelativeDocumentMoniker": "7.1\\7.1.cpp",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "7.1.cpp",
               "DocumentMoniker": "D:\\vs project\\7.1 \u0456\u0442\\7.1 \u0456\u0442\\7.1.cpp",
               "RelativeDocumentMoniker": "7.1 \u0456\u0442\\7.1.cpp",
               "ToolTip": "D:\\vs project\\7.1 \u0456\u0442\\7.1 \u0456\u0442\\7.1.cpp",
               "RelativeToolTip": "7.1 \u0456\u0442\\7.1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-19T14:08:08.406Z",
               "EditorCaption": ""

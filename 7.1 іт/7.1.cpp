@@ -67,7 +67,7 @@ void Calc(int** a, const int rowCount, const int colCount, int& S, int& k)
     k = 0;
     for (int i = 0; i < rowCount; i++)
         for (int j = 0; j < colCount; j++)
-            if (a[i][j] % 7 == 0 || (i % 2 != 0 || j % 2 != 0))
+            if (a[i][j] % 7 == 0 || i % 2 != 0 || j % 2 != 0)
             {
                 S += a[i][j];
                 k++;
